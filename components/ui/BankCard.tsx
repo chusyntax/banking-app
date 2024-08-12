@@ -38,7 +38,6 @@ const BankCard = ({
             height={32}
             alt="Mastercard"
           />
-          {/* Reverted file back after restart */}
         </div>
       </Link>
     </div>
